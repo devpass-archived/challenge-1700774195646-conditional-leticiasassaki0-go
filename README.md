@@ -1,0 +1,2 @@
+## Conditional Expressions in Go Challenge
+In this challenge, we're exploring conditional expressions in Go. Your task is to implement a function called `CheckEvenOrOdd` that takes an integer `number` as an argument and returns a string that indicates whether the number is even or odd. If the number is even, return "even", and if the number is odd, return "odd".
